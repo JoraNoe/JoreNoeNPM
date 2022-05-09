@@ -2,7 +2,7 @@ name: Publish NPM Pack
 on:
   push:
     branches:
-      - master
+      - main
  
 jobs:
   publish-npm:
