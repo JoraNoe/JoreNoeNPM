@@ -1,6 +1,6 @@
 {
   "name": "jorenoe",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "更新工具包",
   "main": "index.js",
   "scripts": {
