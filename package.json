@@ -1,7 +1,7 @@
 {
   "name": "jorenoe",
-  "version": "0.0.3",
-  "description": "工具包",
+  "version": "0.0.4",
+  "description": "更新工具包",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JoraNoe/JoreNoeNPM/issues"
   },
-  "homepage": "https://github.com/JoraNoe/JoreNoeNPM#readme"
+  "homepage": "https://github.com/JoraNoe/JoreNoeNPM#readme",
+  "dependencies": {
+    "uview-ui": "^1.8.4"
+  }
 }
