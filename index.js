@@ -1,4 +1,4 @@
-import { JoreNoeRequest } from "./src/uView/Request";
+import { JoreNoeRequest } from "./src/uniapp/Request";
 
 export default {
     JoreNoeRequest
