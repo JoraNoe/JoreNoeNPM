@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/JoraNoe/JoreNoeNPM#readme",
   "dependencies": {
+    "axios": "^1.4.0",
     "uview-ui": "^1.8.4"
   }
 }
