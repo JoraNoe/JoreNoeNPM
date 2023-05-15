@@ -7,9 +7,9 @@
  * @class ApireturnInfo
  * @template TEntity
  */
-export class ApireturnInfo<TEntity = any>{
-    public State: boolean;
-    public Data: TEntity;
-    public Message: string;
-    public Status: boolean;
+export interface ApireturnInfo<TEntity = any> {
+    State?: boolean;
+    Data?: TEntity;
+    Message?: string;
+    Status?: boolean;
 }
