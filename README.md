@@ -1,2 +1,2 @@
 # JoreNoeNPM
-Npm 前端使用包
+此包暂时不维护
